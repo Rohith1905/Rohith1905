@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux-toolkit,Docker, Java ...**
 
-- 👨‍💻 All of my projects are available at [localhost:3000](localhost:3000)
+- 👨‍💻 All of my projects are available at [coming-soon...](/#)
 
 - 💬 Ask me about **C++, Nodejs, Reactjs**
 
