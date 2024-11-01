@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohith Adiga T R</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith1905&label=Profile%20views&color=0e75b6&style=flat" alt="rohith1905" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rohith1905&label=Profile%20views&color=0e75b6&style=flat" alt="rohith1905" /> </p>
 
-- 🔭 I’m currently working on **CodeTogether**
+- 🔭 I’m currently working on **CodeTogether(personal_project)**
 
 - 🌱 I’m currently learning **Redux-toolkit,Docker, Java ...**
 
