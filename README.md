@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CodeTogether(personal_project)**
 
-- 🌱 I’m currently learning **Redux-toolkit,Docker, Java ...**
+- 🌱 I’m currently learning **Redux-toolkit,Docker**
 
 - 👨‍💻 All of my projects are available at [coming-soon...](https://github.com/Rohith1905)
 
