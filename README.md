@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux-toolkit,Docker, Java ...**
 
-- 👨‍💻 All of my projects are available at [coming-soon...](/#)
+- 👨‍💻 All of my projects are available at [coming-soon...](https://github.com/Rohith1905)
 
 - 💬 Ask me about **C++, Nodejs, Reactjs**
 
