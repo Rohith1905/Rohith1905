@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rohith1905&label=Profile%20views&color=0e75b6&style=flat" alt="rohith1905" /> </p>
 
-- 🔭 I’m currently working on **CodeTogether(personal_project)**
+- 🔭 I’m currently working on [**CodeTogether(personal_project)**](https://bit.ly/code-together)
 
 - 🌱 I’m currently learning **Redux-toolkit,Docker**
 
