@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [coming-soon...](https://github.com/Rohith1905)
 
-- 💬 Ask me about **C++, Nodejs, Reactjs**
+- 💬 Ask me about **C++, Java, Nodejs, Reactjs**
 
 - 📫 How to reach me **rohithadiga19@gmail.com**
 
