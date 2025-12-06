@@ -10,8 +10,12 @@
 - 📚 Currently diving deeper into **database internals** and storage engines  
 - 💬 I love discussing **C++, Java, Spring Boot, React.js**  
 - 💡 Always excited to talk about systems, backend engineering, and clean architectures  
-- 📫 Reach me at **rohithadiga19@gmail.com**  
-- 📁 My project portfolio: **Coming soon…**
+- 📫 Reach me at **rohithadiga19@gmail.com**
+  
+- 📁 **CodeTogether:**  
+  - Real-time collaborative editor with instant multi-user code sync  
+  - Supports file & folder management with live content editing.
+  - Backend ensures reliable session management, distributed presence, and durable code storage  
 
 
 <h3 align="left">Connect with me:</h3>
