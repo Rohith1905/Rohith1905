@@ -5,7 +5,7 @@
   
 ### 👨‍💻 About Me  
 
-- 🔭 Currently building **CodeTogether**, a real-time collaborative code editor (personal project , hosted @ localhost) 
+- 🔭 Currently building **CodeTogether**, a real-time collaborative code editor (personal project , Live @ localhost) 
 - 🌱 Exploring **backend architectures** and **system-level development** 
 - 📚 Currently diving deeper into **database internals** and storage engines  
 - 💬 I love discussing **C++, Java, Spring Boot, React.js**  
